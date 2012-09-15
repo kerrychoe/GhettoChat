@@ -1,0 +1,51 @@
+#wrapper {
+	width: 900px;
+	height: 700px;
+	margin: auto;
+	padding: 20px;
+	background: #cefffc;	
+}
+
+h1 {
+	font-size: 24px;	
+}
+
+h2 {
+	font-size: 18px;	
+}
+
+footer {
+	margin-top: 60px;
+	font-size: 14px;
+}
+
+#intro {
+	width: 600px;
+	margin: 0 auto;
+}
+
+#room_url_val {
+	display: inline;	
+}
+
+#messagebox {
+	border-radius: 5px;
+	margin-top: 10px;
+	width: 400px;
+}
+
+#namebox {
+	border-radius: 5px;
+	margin-top: 10px;
+}
+
+#chatBox {
+	width: 600px;
+	height: 300px;
+	padding: 10px;
+	border: black;
+	overflow: auto;	
+	background: white;
+	border-radius: 5px;
+	border: 2px solid grey;
+}
